@@ -32,3 +32,13 @@ We use the following methods for the analysis:**
 
 **The best k-value appears at the Elbow-Curve of 4 and as a result an output of 4 clusters can categorize the cryptocurrencies data.**
 
+### **Visualizing Crypocurrencies Results**
+
+### **3D-Scatter plot with Clusters**
+
+<img src= "img/HV.Scatter & Clusters 1.png" >
+<img src= "img/HV.Scatter & Clusters 3.png" >
+
+**These 3D Scatter Plots were obtained using the PCA Algorithim to reduce the cryptocurrencies dimensions to three principal components** 
+
+### **2D Scatter plot with clusters** 
