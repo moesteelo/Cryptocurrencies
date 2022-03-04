@@ -45,4 +45,4 @@ We use the following methods for the analysis:**
 
 <img src="img/HVplot Scatter .png" >
 
-**This 2D-Scatter plot above was obtained using the PCA algorithm to reduce the cryptocurrency data into three principal componets and four clusters 
+**This 2D-HV Scatter plot above was obtained using the PCA algorithm to reduce the cryptocurrency data into three principal componets and four clusters** 
