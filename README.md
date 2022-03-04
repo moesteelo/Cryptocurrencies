@@ -44,5 +44,10 @@ We use the following methods for the analysis:**
 ### **2D Scatter plot with clusters** 
 
 <img src="img/HVplot Scatter .png" >
+<img src="img/HV Scatter Plot 2.png" >
 
-**This 2D-HV Scatter plot above was obtained using the PCA algorithm to reduce the cryptocurrency data into three principal componets and four clusters** 
+**These 2D-HV Scatter plot's above were obtained using the PCA algorithm to reduce the cryptocurrency data using TotalCoinsMined and TotalCoinsSupply in the X & Y axis. The cyrptocurrency BitTorrent coin in Class #2 is the unique outlier in this HV Scatter plot.** 
+
+### **Tradable Cryptocurrencies Table**
+
+<img src="img/Tradable Cryptocurrencies Table .png" >
