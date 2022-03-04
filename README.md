@@ -42,3 +42,7 @@ We use the following methods for the analysis:**
 **These 3D Scatter Plots were obtained using the PCA Algorithim to reduce the cryptocurrencies dimensions to three principal components** 
 
 ### **2D Scatter plot with clusters** 
+
+<img src="img/HVplot Scatter .png" >
+
+**This 2D-Scatter plot above was obtained using the PCA algorithm to reduce the cryptocurrency data into three principal componets and four clusters 
