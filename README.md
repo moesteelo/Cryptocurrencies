@@ -51,3 +51,7 @@ We use the following methods for the analysis:**
 ### **Tradable Cryptocurrencies Table**
 
 <img src="img/Tradable Cryptocurrencies Table .png" >
+
+**According to the Tradable Cryptocurrency Table most of the cryptocurrency coins are from classes 0 and 1. The highlighted BitTorrent coin is the only cyrptocurrency coin in class 2.**
+
+## **Summary**
