@@ -1,9 +1,9 @@
 # Cryptocurrencies
-Using Unsupervised Machine Learning to examine the outcome of Cryptocurrencies data be and how to analyze it. 
+**Using Unsupervised Machine Learning to examine the outcome of Cryptocurrencies data be and how to analyze it.** 
 
 ## Analysis Overview
 
-**The purpose of this project is to use Unsupervised Machine Learning to analzye a cryptocurrencies database and create a report that includes traded cryptocurrencies classified by their Unsupervised Machine Learning groups and feaures. Thsi classification report can be used by an investment bank to propose a new cryptocurrency investment portfolio to its clients. 
+**The purpose of this project is to use Unsupervised Machine Learning to analzye a cryptocurrencies database and create a report that includes traded cryptocurrencies classified by their Unsupervised Machine Learning groups and feaures. This classification report can be used by an investment bank to propose a new cryptocurrency investment portfolio to its clients. 
 We use the following methods for the analysis:**
 
 - **Preprocessing the Data for PCA**
@@ -55,3 +55,6 @@ We use the following methods for the analysis:**
 **According to the Tradable Cryptocurrency Table most of the cryptocurrency coins are from classes 0 and 1. The highlighted BitTorrent coin is the only cyrptocurrency coin in class 2.**
 
 ## **Summary**
+
+**In summary various steps such as preprocessing the data, reducing the data dimensions, using the K-means to cluster the cryptocurrencies and finally visualize the cryptocurrencies data were used to help classify the output data in the Unsupervised Machine Learning process.  As a result, the data has identified the classification of 532 cryptocurrencies based on similarities of their features. This ultimately gives a wide range of investment opportunities for clients to use to diversify their portfolio investments.**
+
